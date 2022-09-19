@@ -1,5 +1,5 @@
 # Projeto-Churrascometro
-Project made through the ProgramadorBR course, basic javascript module
+Project made through the ProgramadorBR course, basic javascript module. This project consists of calculating the amount of meat, beer and drinks for a barbecue based on the number of adults, children and the duration
 
 Meat - 400gr per person + 6 hours - 650
 
